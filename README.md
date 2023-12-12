@@ -11,6 +11,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # Hotel Managemnet Assignment
 
+
+https://github.com/aashimawadhwa/Hotel-management/assets/73706697/f25f1c4a-70d0-4072-a6b5-ffeca8e03e12
+
+
+
+
+
 # Goal
 The goal of this project is to develop a simple hotel booking system for a single hotel with 12 available rooms of 2 categories, 6 rooms each. The system will include a user-facing booking interface built with Next.js and React, and Firestore for database storage. Additionally, an admin panel will be implemented to manage rooms and bookings efficiently.
 # Features
@@ -44,6 +51,4 @@ The goal of this project is to develop a simple hotel booking system for a singl
 #### Frontend: Next.js, React, Tailwind CSS for styling
 #### Backend: Serverless ( Next.JS )
 #### Database: Firestore
-
-
 
